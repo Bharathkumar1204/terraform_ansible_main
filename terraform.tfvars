@@ -14,8 +14,8 @@ mail_count                      = "1"
 my_web_sub_domain_name          = "web"
 web_want                        = "true"
 web_count                       = "1"
-my_local_aws_private_key_path   = "/home/bharath/Downloads/kumar@devops.pem"
-my_key_name                     = "kumar@devops"
+my_local_aws_private_key_path   = "key_path"
+my_key_name                     = "pem _key"
 names                           = ["web", "mail", "db", "httpd"]
 status                          = "present"
 
