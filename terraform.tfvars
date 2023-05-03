@@ -1,6 +1,6 @@
 my_region                       = "ap-south-1"
-my_access_key                   = "AKIARK24ICEQCT3UMIDC"
-my_secret_key                   = "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"
+my_access_key                   = "access_key"
+my_secret_key                   = "secret_key"
 my_domain_name                  = "bharath.com"
 my_db_sub_domain_name           = "db"
 db_want                         = "true"
